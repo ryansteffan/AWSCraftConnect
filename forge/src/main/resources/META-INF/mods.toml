@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+#issueTrackerURL = ""
+license = "GNU AGPL 3.0"
+
+[[mods]]
+modId = "awscraftconnect"
+version = "${version}"
+displayName = "AWSCraftConnect"
+authors = "Ryan Steffan & Contributors"
+description = '''
+A simple client side mod that allows for easy connection to AWSCraft servers.
+'''
+#logoFile = ""
+
+[[dependencies.awscraftconnect]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.awscraftconnect]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.awscraftconnect]]
+modId = "architectury"
+mandatory = true
+versionRange = "[9.2.14,)"
+ordering = "AFTER"
+side = "BOTH"

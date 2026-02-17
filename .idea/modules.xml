@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/awscraftconnect.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/awscraftconnect.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/awscraftconnect.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/awscraftconnect.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/awscraftconnect.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/awscraftconnect.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/awscraftconnect.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/awscraftconnect.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/awscraftconnect.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/awscraftconnect.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/awscraftconnect.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/awscraftconnect.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/awscraftconnect.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/awscraftconnect.forge.test.iml" />
+    </modules>
+  </component>
+</project>
