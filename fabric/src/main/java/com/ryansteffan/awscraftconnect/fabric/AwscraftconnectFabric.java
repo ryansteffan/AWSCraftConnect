@@ -12,5 +12,6 @@ public final class AwscraftconnectFabric implements ModInitializer {
 
         // Run our common setup.
         Awscraftconnect.init();
+
     }
 }
